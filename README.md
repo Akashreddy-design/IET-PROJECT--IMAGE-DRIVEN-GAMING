@@ -1,4 +1,4 @@
-# IET-Project---Image-Based-Gaming
+s# IET-Project---Image-Based-Gaming
 
 Wouldn’t it be fun, if you could use your hand to control the car in a game? So, here we have proposed a computer vision concept to control the game with hand gestures by mapping gestures to the W, A, S, D keyboard keys.
 
